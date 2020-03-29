@@ -7,8 +7,7 @@ header:
   image: "/images/projects.png"
 ---
 
-{% include absolute_url %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% include base_path %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
