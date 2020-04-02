@@ -23,4 +23,4 @@ header:
 <span style="font-family:Courier; font-size:18pt;">Fair wishes,
 Wickus Bester
 
-<span style="font-family:Courier; font-size:10pt;">(Cover photo: Jeremy Perkins @ unsplash.com)
+<span style="font-family:Courier; font-size:15pt;">(Cover photo: Jeremy Perkins @ unsplash.com)
